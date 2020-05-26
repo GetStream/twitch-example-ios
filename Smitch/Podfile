@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Smitch' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Smitch
+  pod 'StreamChat', '~> 2.1'
+  pod 'VoxeetSDK', '~> 2.3'
+  pod 'VoxeetScreenShareKit', '~> 1.0'
+end

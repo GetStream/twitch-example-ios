@@ -1,0 +1,68 @@
+PODS:
+  - Nuke (8.4.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxGesture (3.0.2):
+    - RxCocoa (~> 5.1)
+    - RxSwift (~> 5.1)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SnapKit (5.0.1)
+  - Starscream (3.1.1)
+  - StreamChat (2.2.1):
+    - Nuke (~> 8.4)
+    - RxGesture (~> 3.0)
+    - SnapKit (~> 5.0)
+    - StreamChatCore (= 2.2.1)
+    - SwiftyGif (~> 5.2.0)
+  - StreamChatClient (2.2.1):
+    - Starscream (~> 3.1)
+  - StreamChatCore (2.2.1):
+    - RxCocoa (~> 5.1)
+    - RxSwift (~> 5.1)
+    - StreamChatClient (= 2.2.1)
+  - SwiftyGif (5.2.0)
+  - VoxeetScreenShareKit (1.0.0)
+  - VoxeetSDK (2.3.0)
+
+DEPENDENCIES:
+  - StreamChat (~> 2.1)
+  - VoxeetScreenShareKit (~> 1.0)
+  - VoxeetSDK (~> 2.3)
+
+SPEC REPOS:
+  trunk:
+    - Nuke
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - Starscream
+    - StreamChat
+    - StreamChatClient
+    - StreamChatCore
+    - SwiftyGif
+    - VoxeetScreenShareKit
+    - VoxeetSDK
+
+SPEC CHECKSUMS:
+  Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxGesture: d6bd7447ca3a596c7a9702a6a2b6a2bb5d8bae54
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  StreamChat: 4930b589810a17e1336f0a5fa15ebb52f02371e5
+  StreamChatClient: 8a5e67f875ac6db1ecbd063574327b573b897722
+  StreamChatCore: 703fc23bb9327cdc0f14ed29aa3b9a5fbb4b4053
+  SwiftyGif: b85c6b33a9411859d9e1db998b6a8214aea942df
+  VoxeetScreenShareKit: 2e53c58e0fa0099c3a8b091082c18a788d3b99ab
+  VoxeetSDK: 1b580287e382c62e03000e6c810282bbbbf0537c
+
+PODFILE CHECKSUM: c43f06b96cef186785899bbb5faae2290b420626
+
+COCOAPODS: 1.9.1
