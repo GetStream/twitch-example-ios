@@ -4,7 +4,7 @@
 
 ## 📚 Tutorial
 
-This repository contains the completed Xcode project following the [How to Build a Twitch Clone Game Live Streaming App for iOS](https://getstream.io/blog/stream-dolby-game-livestreaming-tutorial/) tutorial. You should read it before trying to run this project as it contains it may contain useful information not present in this README.
+This repository contains the completed Xcode project following the [How to Build a Twitch Clone Game Live Streaming App for iOS](https://getstream.io/blog/twitch-game-livestreaming-app-tutorial-ios/) tutorial. You should read it before trying to run this project as it contains it may contain useful information not present in this README.
 
 ## ⚙️ Setup
 
