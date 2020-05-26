@@ -1,4 +1,4 @@
-# 💬 Twitch-like App with Stream Chat and Dolby.io  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Ftwitch-example-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%20app%20similar%20to%20Twitch%20for%20iOS%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Ftwitch-example-ios)
+# 💬 Twitch Clone App with Stream Chat and Dolby.io  [![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGetStream%2Ftwitch-example-ios)](https://twitter.com/intent/tweet?text=Want%20to%20build%20an%20app%20similar%20to%20Twitch%20for%20iOS%3F%20Learn%20how%3A&url=https%3A%2F%2Fgithub.com%2FGetStream%2Ftwitch-example-ios)
 
 <img align="right" src="https://dev-to-uploads.s3.amazonaws.com/i/to6nmnsnlftjtel0045d.gif" width="40%" />
 
